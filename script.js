@@ -77,7 +77,7 @@
 // nums(5, 15);
 
 
-//Задание 5
-const arrow = (x, n) => console.log(Math.pow(x,n));
+// //Задание 5
+// const arrow = (x, n) => console.log(Math.pow(x,n));
 
-arrow(8,8);
+// arrow(8,8);
